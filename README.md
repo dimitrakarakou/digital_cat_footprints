@@ -33,6 +33,6 @@ wp_localize_script() passes the $post array that holds the post ids to the ‘bl
 
 and the ‘blogs_post_ids’ is available in the moreText.js script.
 
-More detailed descriptionclick <a target="_blank" href="https://dimitrakarakou.gr/digitalmedia/digital-cat-footprints"> here </a>
+More detailed description click <a target="_blank" href="https://dimitrakarakou.gr/digitalmedia/digital-cat-footprints"> here </a>
 
 Thank you.
