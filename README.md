@@ -36,3 +36,17 @@ and the ‘blogs_post_ids’ is available in the moreText.js script.
 More detailed description click <a target="_blank" href="https://dimitrakarakou.gr/digitalmedia/digital-cat-footprints"> here </a>
 
 Thank you.
+
+
+<strong>Note</strong>
+<h6>The php files contains only my modifications
+
+The functions.php : The load_moreText function to load the moreText.js in Omega theme.
+
+The hooks.php: the omega_excerpt_more function
+
+The moreText.js
+
+Replace the 
+localhost:8888/WordPress/wp-content/uploads/2022/09/cat_footprints.gif
+with your address of the gif file</h6>
